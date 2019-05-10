@@ -1,5 +1,7 @@
 def create_an_empty_array
   
+  ["apples","pears"]
+  
 end
 
 def create_an_array
