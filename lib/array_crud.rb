@@ -1,14 +1,17 @@
 def create_an_empty_array
   
-  ["apples","pears"]
+  []
   
 end
 
 def create_an_array
-  
+  ["apples","pears", "grapes"]
+
 end
 
 def add_element_to_end_of_array(array, element)
+  
+  
   
 end
 
