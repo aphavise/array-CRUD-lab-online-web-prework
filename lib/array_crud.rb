@@ -40,11 +40,11 @@ end
 
 def retrieve_first_element_from_array(array)
   
-  index[0]
+  array[0]
   
 end
 
 def retrieve_last_element_from_array(array)
   
-  index [-1]
+  array [-1]
 end
